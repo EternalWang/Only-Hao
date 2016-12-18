@@ -1,0 +1,227 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material3242
+Ka 0.694256 0.694256 0.694256
+Kd 0.748897 0.748897 0.748897
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_Ka c_broadcloth_maroon.jpg
+map_Kd c_broadcloth_maroon.jpg
+newmtl middiecut_hair3
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.122000 0.122000 0.122000
+Ns 20.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/Mapgrid5_1.png
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/Mapgrid5_1.png
+map_Ka Mapgrid5_1.png
+newmtl middiecut_hair2
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.122000 0.122000 0.122000
+Ns 20.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/StrandBrown_1.png
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/StrandBrown_1.png
+map_Ka StrandBrown_1.png
+newmtl middiecut_hair1
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.122000 0.122000 0.122000
+Ns 20.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/Mapgrid5_1.png
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/Mapgrid5_1.png
+map_Ka Mapgrid5_1.png
+newmtl middiecut_hair4
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.122000 0.122000 0.122000
+Ns 20.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/BaseBrown_1.png
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Hair/Female_Hair/Female_Bob/BaseBrown_1.png
+map_Ka BaseBrown_1.png
+newmtl W_Shoes_outsole
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_nudes.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl W_Shoes_outsole
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_nudes.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl Shoes_heel_rubber
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl W_Shoes_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl W_Shoes_sole
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_nudes.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl W_Shoes_skin
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_beige_new.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl W_Shoes_front_heel
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_beige_new.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl dummy
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/transparency.png
+newmtl Shoes_heel_rubber
+Ka 0.000000 0.000000 0.000000
+Kd 0.626000 0.406900 0.000000
+Ks 0.489204 0.489204 0.489204
+Ns 50.000000
+illum 2
+d 1.000000
+newmtl W_Shoes_red
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl W_Shoes_sole
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_nudes.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_nudes.jpg
+newmtl W_Shoes_skin
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_beige_new.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl W_Shoes_front_heel
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_beige_new.jpg
+map_Ks C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/skin_s.jpg
+map_Ka skin_beige_new.jpg
+newmtl dummy
+Ka 0.000000 0.000000 0.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+map_d C:/Users/Public/Documents/MD4/Presets_ver_2.1.77/Avatar/Shoes/Female_Shoes/Female_Open_Toe_Pump/transparency.png
+newmtl W_eye_specular_Light
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Kd F:/软件/Temp/clo3d/1077/eye_light.png
+map_d F:/软件/Temp/clo3d/1077/eye_light.png
+map_Ka eye_light.png
+newmtl W_hand_leg
+Ka 0.500000 0.451250 0.425000
+Kd 1.000000 1.000000 1.000000
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd F:/软件/Temp/clo3d/1077/W_leg_hand.jpg
+map_Ka W_leg_hand.jpg
+newmtl W_face
+Ka 0.500000 0.451250 0.425000
+Kd 1.000000 1.000000 1.000000
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd F:/软件/Temp/clo3d/1077/W_face.jpg
+map_Ka W_face.jpg
+newmtl W_body
+Ka 0.500000 0.451000 0.425000
+Kd 1.000000 1.000000 1.000000
+Ks 0.120000 0.120000 0.120000
+Ns 7.000000
+illum 2
+d 1.000000
+map_Kd F:/软件/Temp/clo3d/1077/W_body_lingerie.jpg
+map_Ka W_body_lingerie.jpg
+newmtl W_eyelashes
+Ka 0.000000 0.000000 0.000000
+Kd 0.025600 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 5.000000
+illum 2
+d 1.000000
+newmtl W_eye
+Ka 0.231000 0.231000 0.231000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 100.000000
+illum 2
+d 1.000000
+map_Kd F:/软件/Temp/clo3d/1077/eye_1.jpg
+map_Ka eye_1.jpg
